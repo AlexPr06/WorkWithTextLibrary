@@ -1,9 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35828.75 d17.13
+VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithTextLibrary", "WorkWithTextLibrary\WorkWithTextLibrary.csproj", "{90AABC02-89A2-4F69-B3A9-174B76EB2FCD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextOperations", "WorkWithTextLibrary\TextOperations.csproj", "{90AABC02-89A2-4F69-B3A9-174B76EB2FCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		hometask.excalidraw.png = hometask.excalidraw.png
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp", "MyApp\MyApp.csproj", "{660E3D8B-BB27-4C6A-B5AA-B528D9F82983}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +22,10 @@ Global
 		{90AABC02-89A2-4F69-B3A9-174B76EB2FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90AABC02-89A2-4F69-B3A9-174B76EB2FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90AABC02-89A2-4F69-B3A9-174B76EB2FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{660E3D8B-BB27-4C6A-B5AA-B528D9F82983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660E3D8B-BB27-4C6A-B5AA-B528D9F82983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660E3D8B-BB27-4C6A-B5AA-B528D9F82983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660E3D8B-BB27-4C6A-B5AA-B528D9F82983}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
